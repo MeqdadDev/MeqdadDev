@@ -18,7 +18,7 @@ _You can take a tour on my cool stuff in these fields:_
 ## My Links
 
 
-[![Twitter Logo](\logos\twitter.png)](https://twitter.com/MeqdadDev)
+[![Twitter Logo](/logos/twitter.png)](https://twitter.com/MeqdadDev)
 [![LinkedIn Logo](\logos\linkedin.png)](https://www.linkedin.com/in/meqdad-darweesh/)
 [![Facebook Logo](\logos\facebook.png)](https://www.facebook.com/MeqdadDev)
 [![Instagram Logo](\logos\instagram.png)](https://www.instagram.com/Meqdad.Dev)
