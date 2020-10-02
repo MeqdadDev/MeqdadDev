@@ -1,16 +1,25 @@
-### Hi there 👋
+# Welcome to my GitHub Profile
+## Hi, I'm [Meqdad](https://meqdad.me/)
 
-<!--
-**MeqdadDarweesh/MeqdadDarweesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end Developer, STEM Robotics Engineer and Coding Trainer.
 
-Here are some ideas to get you started:
+_You can take a tour on my cool stuff in these fields:_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ***[Machine Learning](https://github.com/MeqdadDarweesh/Machine-Learning)***
+
+- ***[Web Development](https://github.com/MeqdadDarweesh/Web-Development)***
+
+- ***[Robotics](https://github.com/MeqdadDarweesh/Robotics)***
+
+- ***[Programming Languages](https://github.com/MeqdadDarweesh/Programming-Languages)***
+
+
+
+## My Links
+
+
+[![Twitter Logo](\logos\twitter.png)](https://twitter.com/MeqdadDev)
+[![LinkedIn Logo](\logos\linkedin.png)](https://www.linkedin.com/in/meqdad-darweesh/)
+[![Facebook Logo](\logos\facebook.png)](https://www.facebook.com/MeqdadDev)
+[![Instagram Logo](\logos\instagram.png)](https://www.instagram.com/Meqdad.Dev)
+[![Portfolio Logo](\logos\links.png)](https://meqdad.me/)
