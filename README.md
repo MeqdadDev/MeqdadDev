@@ -19,7 +19,7 @@ _You can take a tour on my cool stuff in these fields:_
 
 
 [![Twitter Logo](/logos/twitter.png)](https://twitter.com/MeqdadDev)
-[![LinkedIn Logo](/logos/linkedin.png)](https://www.linkedin.com/in/meqdad-darweesh/)
+[![LinkedIn Logo](/logos/linkedin.png)](https://www.linkedin.com/in/meqdad-darwish/)
 [![Facebook Logo](/logos/facebook.png)](https://www.facebook.com/MeqdadDev)
 [![Instagram Logo](/logos/instagram.png)](https://www.instagram.com/Meqdad.Dev)
 [![Portfolio Logo](/logos/links.png)](https://meqdad.me/)
