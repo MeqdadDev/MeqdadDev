@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile
-## Hi, I'm [Meqdad](https://meqdad.me/)
+## Hi, I'm [Meqdad](https://blog.meqdad.me/)
 ![Years Badge](https://badges.pufler.dev/years/MeqdadDev)
 
 - 🔭 I’m currently working as software developer at [Neurons AI](http://ai-neurons.com/)
