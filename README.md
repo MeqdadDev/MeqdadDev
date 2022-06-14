@@ -2,11 +2,10 @@
 ## Hi, I'm [Meqdad](https://blog.meqdad.me/)
 ![Years Badge](https://badges.pufler.dev/years/MeqdadDev)
 
-- 🔭 I’m currently working as software developer at [Neurons AI](http://ai-neurons.com/)
+- 🔭 I’m currently working as software developer at Neurons AI
 - 🔭 Also, I'm working as robotics and coding team leader at [Purpose](https://purpose.ps/)
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -23,16 +22,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeqdadDev&hide=TeX&layout=compact)
 
-_Some of my cool stuff:_
-
-- ***[Machine Learning](https://github.com/MeqdadDev/Machine-Learning)***
-
-- ***[Web Development](https://github.com/MeqdadDev/Web-Development)***
-
-- ***[Robotics](https://github.com/MeqdadDev/Robotics)***
-
-- ***[Programming Languages](https://github.com/MeqdadDev/Programming-Languages)***
-
 
 ## My Social Media Links
 
@@ -41,4 +30,4 @@ _Some of my cool stuff:_
 [![LinkedIn Logo](/logos/linkedin.png)](https://www.linkedin.com/in/meqdad-darwish/)
 [![Facebook Logo](/logos/facebook.png)](https://www.facebook.com/MeqdadDev)
 [![Instagram Logo](/logos/instagram.png)](https://www.instagram.com/Meqdad.Dev)
-[![Portfolio Logo](/logos/links.png)](https://meqdad.me/)
+[![Portfolio Logo](/logos/links.png)](https://blog.meqdad.me/)
