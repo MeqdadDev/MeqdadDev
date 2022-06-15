@@ -2,12 +2,15 @@
 ## Hi, I'm [Meqdad](https://blog.meqdad.me/)
 ![Years Badge](https://badges.pufler.dev/years/MeqdadDev)
 
-- 🔭 I’m currently working as software developer at Neurons AI
-- 🔭 Also, I'm working as robotics and coding team leader at [Purpose](https://purpose.ps/)
+- 👩‍💻 Working as software developer at Neurons AI
+- 👩‍💻 Working as robotics and coding team leader at [Purpose](https://purpose.ps/)
+- ✍ Writing technical blogs on [Meqdad Dev's Blog](https://blog.meqdad.me/) and [Medium](https://medium.com/@meqdad.dev).
 
+### Worked with some languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 
+### Worked with some frameworks and tools:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Fast API](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
