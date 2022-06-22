@@ -3,7 +3,7 @@
 ![Years Badge](https://badges.pufler.dev/years/MeqdadDev)
 
 - 👩‍💻 Working as software developer at Neurons AI
-- 👩‍💻 Working as robotics and coding team leader at [Purpose](https://purpose.ps/)
+- 👩‍💻 Working as technical trainer and team leader at [Purpose](https://purpose.ps/)
 - ✍ Writing technical blogs on [Meqdad Dev's Blog](https://blog.meqdad.me/) and [Medium](https://medium.com/@meqdad.dev).
 
 ### Worked with some languages:
