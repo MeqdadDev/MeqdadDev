@@ -1,14 +1,14 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
-<h2 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Meqdad+Darwish+" alt="Typing SVG" /></a></h2>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&size=16&pause=1000&center=true&width=435&lines=Learner%2C+Developer%2C+Trainer" alt="Typing SVG" /></a></h2>
+<h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Meqdad+Darwish+" alt="Typing SVG" /></a></h2>
+<h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=consolas&size=16&pause=1000&center=true&width=435&lines=Learner%2C+Developer%2C+Trainer" alt="Typing SVG" /></a></h2>
 <a href="https://www.linkedin.com/in/konstantinos-georgiou/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://pypi.org/user/meqdad/">
     <img src="https://img.shields.io/badge/PyPi-meqdad-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
-<a href="https://pypi.org/user/meqdad/">
+<a href="https://github.com/MeqdadDev">
     <img src="https://komarev.com/ghpvc/?username=meqdad&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
 </a>
 
