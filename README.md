@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cascadia&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Meqdad+Darwish+" alt="Typing SVG" /></a></h2>
 <h3 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=consolas&size=16&pause=1000&center=true&width=435&lines=Learner%2C+Developer%2C+Trainer" alt="Typing SVG" /></a></h2>
-<a href="https://www.linkedin.com/in/konstantinos-georgiou/">
+<a href="https://www.linkedin.com/in/meqdad-darwish/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="https://pypi.org/user/meqdad/">
