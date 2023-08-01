@@ -39,7 +39,7 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MeqdadDev&count_private=true&show_icons=true&include_all_commits=true&theme=light) -->
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeqdadDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeqdadDev)](https://github.com/MeqdadDev)
 
 ## My Social Media Links
 
