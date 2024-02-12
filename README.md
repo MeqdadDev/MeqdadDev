@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/PyPi-meqdad-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
 <a href="https://github.com/MeqdadDev">
-    <img src="https://komarev.com/ghpvc/?username=meqdad&label=Visitors&color=0e75b6&style=flat" alt="googoldkhan" />
+    <img src="https://komarev.com/ghpvc/?username=meqdad&label=Visitors&color=0e75b6&style=flat" alt="MeqdadDev Visitors" />
 </a>
 
 <p align="center">
@@ -23,31 +23,31 @@
 ## Languages, Frameworks, DBs and Other Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MeqdadDev/">
     <img src="https://skillicons.dev/icons?i=py,java,django,fastapi,flask,spring" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MeqdadDev/">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,maven" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MeqdadDev/">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,raspberrypi,ros,arduino,opencv" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MeqdadDev/">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,hibernate,mongodb,sqlite" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/MeqdadDev/">
     <img src="https://skillicons.dev/icons?i=linux,docker,postman,idea,vscode,stackoverflow" />
   </a>
 </p>
