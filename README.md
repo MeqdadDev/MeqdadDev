@@ -88,4 +88,4 @@
 [![Twitter Logo](/logos/twitter.png)](https://twitter.com/MeqdadDev)
 [![LinkedIn Logo](/logos/linkedin.png)](https://www.linkedin.com/in/meqdad-darwish/)
 [![Instagram Logo](/logos/instagram.png)](https://www.instagram.com/Meqdad.Dev)
-[![Blog Link](/logos/links.png)](https://medium.com/@meqdad.dev)
+[![Blog Link](/logos/links.png)](https://meqdaddev.github.io/)
