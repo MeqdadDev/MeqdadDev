@@ -74,14 +74,14 @@
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=MeqdadDev&count_private=true&show_icons=true&include_all_commits=true&theme=light) 
 </p>-->
 
-<div style="display: flex; align-items: flex-start; align: center">
+<!-- <div style="display: flex; align-items: flex-start; align: center">
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeqdadDev)](https://github.com/MeqdadDev)
 
 </p>
 
-</div>
+</div> -->
 
 ## My Social Media Links
 
